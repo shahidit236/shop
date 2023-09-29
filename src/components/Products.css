@@ -1,0 +1,48 @@
+.groceries{
+    height: 220px;
+    width: 200px;
+    margin-left: 15px;
+}
+.groceries1{
+    text-decoration: none;
+    margin-left: 80px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.veg{
+    height: 220px;
+    width: 200px;
+    margin-left: 25px;
+}
+.veg1{
+    text-decoration: none;
+    margin-left: 60px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.fruit{
+    height: 220px;
+    width: 200px;
+    margin-left: 15px;
+}
+.fruit1{
+    text-decoration: none;
+    margin-left: 100px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.beverages{
+    height: 220px;
+    width: 200px;
+    margin-left: 15px;
+    border-radius: 10px;
+
+}
+.beverages1{
+    text-decoration: none;
+    margin-left: 80px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}

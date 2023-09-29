@@ -1,0 +1,73 @@
+.header{
+  background: rgb(0,25,36);
+  background: linear-gradient(90deg, rgba(0,25,36,1) 0%, rgba(225,24,200,1) 0%, rgba(137,15,223,1) 21%, rgba(151,58,184,1) 52%, rgba(171,63,225,1) 80%, rgba(149,0,255,1) 100%);
+  height: 110px;
+  }
+  .form-inline input{
+    width: 500px;
+    border-radius: 5px;
+    margin-left: 100px
+    }
+  .login{
+    text-decoration: none;
+    color: white;
+
+  }
+  .cart{
+    text-decoration: none;
+    color: white;
+  }
+  .bold1{
+    color: white;
+    margin-left: 120px;
+    margin-top: -5px;
+   }
+  .bold{
+   color: white;
+   margin-top: -3px;
+   margin-left: 50px;
+  }
+  .header1{
+  background: rgb(0,25,36);
+  background: linear-gradient(90deg, rgba(0,25,36,1) 0%, rgba(144,20,128,1) 0%, rgba(139,8,145,1) 21%, rgba(119,9,122,1) 38%, rgba(127,8,133,1) 47%, rgba(109,23,115,1) 53%, rgba(109,43,115,1) 59%, rgba(130,13,144,1) 67%, rgba(142,4,159,1) 80%, rgba(149,4,149,1) 100%);
+  height: 50px;
+  }
+  .logo1{
+    height: 30px;
+    margin-top: -10px;
+    margin-left: 600px;
+  }
+  .header2{
+    background-color: blue;
+    height: 40px;
+  }
+ 
+  #nav-dropdown-white{
+    color: white;
+    margin-top: -8px;
+    margin-left: 150px;
+  }
+  #nav-dropdown-white-example{
+    color: white;
+    margin-top: -8px;
+  }
+  /* Groceries */
+  .gros{
+    margin-left: 40px;
+  }
+ .gros1{
+  height: 150px;
+  width: 130px;
+  border-radius: 10px;
+  margin-top: -10px;
+ }
+ .gros2{
+  text-decoration: none;
+  color: black;
+  margin-left: 15px;
+ }
+ .gros3{
+  margin-top: 10px;
+  margin-left: 30px;
+ }
+ 
